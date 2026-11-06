@@ -1,5 +1,6 @@
 # Guided books, reference builds and local notes stay local; only the READMEs are published.
 guided-impl/
+ref/
 WORKFLOW.md
 CLAUDE.md
 .claude/settings.local.json
