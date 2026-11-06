@@ -1,4 +1,4 @@
-# Guided books, reference builds and local notes stay local; only the READMEs are published.
+# Only the READMEs are published. The reference code and my local notes stay here.
 guided-impl/
 ref/
 WORKFLOW.md

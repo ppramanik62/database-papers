@@ -8,7 +8,7 @@ Alongside, I'm building [onyxdb](https://github.com/PPRAMANIK62/onyxdb), a SQL d
 
 onyxdb is built in milestones, each a version you can run.
 
-| Milestone | What works | Books |
+| Milestone | What works | Topics |
 |---|---|---|
 | M0 | pages on disk, cached and checksummed | 1–3 |
 

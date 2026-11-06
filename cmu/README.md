@@ -2,7 +2,7 @@
 
 Andy Pavlo's lecture notes from [CMU 15-445/645, Spring 2026](https://15445.courses.cs.cmu.edu/spring2026/schedule.html), the latest offering with every set of notes out. Lecture 26, the final review, has no notes.
 
-| # | Lecture | Books |
+| # | Lecture | Topics |
 |---|---|---|
 | 1 | [Relational Model & Algebra](https://15445.courses.cs.cmu.edu/spring2026/notes/01-relationalmodel.pdf) | |
 | 2 | [Modern SQL](https://15445.courses.cs.cmu.edu/spring2026/notes/02-modernsql.pdf) | |
