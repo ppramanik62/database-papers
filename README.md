@@ -4,6 +4,14 @@ My notes from learning how databases work: the papers, specs and design docs I r
 
 Alongside, I'm building [onyxdb](https://github.com/PPRAMANIK62/onyxdb), a SQL database in Rust.
 
+## Milestones
+
+onyxdb is built in milestones, each a version you can run.
+
+| Milestone | What works | Books |
+|---|---|---|
+| M0 | pages on disk, cached and checksummed | 1–3 |
+
 ## Now reading
 
 4. `wal`: how a database promises that a committed write survives a crash.
